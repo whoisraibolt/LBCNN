@@ -1,6 +1,0 @@
-model_checkpoint_path: "FER-2013-19000"
-all_model_checkpoint_paths: "FER-2013-15000"
-all_model_checkpoint_paths: "FER-2013-16000"
-all_model_checkpoint_paths: "FER-2013-17000"
-all_model_checkpoint_paths: "FER-2013-18000"
-all_model_checkpoint_paths: "FER-2013-19000"

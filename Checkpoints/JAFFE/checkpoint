@@ -1,0 +1,6 @@
+model_checkpoint_path: "JAFFE-19000"
+all_model_checkpoint_paths: "JAFFE-15000"
+all_model_checkpoint_paths: "JAFFE-16000"
+all_model_checkpoint_paths: "JAFFE-17000"
+all_model_checkpoint_paths: "JAFFE-18000"
+all_model_checkpoint_paths: "JAFFE-19000"
