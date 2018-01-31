@@ -14,7 +14,7 @@ Paulo Rosa          ( [Lattes](http://lattes.cnpq.br/1512717941866097 "Lattes") 
 
 This Jupyter Notebook shows step by step, the process of building a Local Binary Convolutional Neural Network for Emotional Expression Recognition in Python using the TensorFlow framework.
 
-In this example we use the dataset [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data "FER-2013").
+In this example we use the dataset [JAFFE](http://www.kasrl.org/jaffe.html "JAFFE").
 
 **Notice:** The LBCNN model proposed in this work was implemented in Python (version 2.7.12) using the TensorFlow framework (version 1.4.0) using a GPU based architecture, and might not work with other versions.
 
@@ -43,9 +43,7 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 
 - Juefei-Xu, Felix, Vishnu Naresh Boddeti, and Marios Savvides. "Local binary convolutional neural networks." Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. Vol. 1. 2017.
 
-- Goodfellow, Ian J., et al. "Challenges in representation learning: A report on three machine learning contests." International Conference on Neural Information Processing. Springer, Berlin, Heidelberg, 2013.
-
-- [Challenges in Representation Learning: Facial Expression Recognition Challenge - Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/discussion/29428 "Kaggle")
+- Lyons, Michael, et al. "Coding facial expressions with gabor wavelets." Automatic Face and Gesture Recognition, 1998. Proceedings. Third IEEE International Conference on. IEEE, 1998.
 
 - [Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb "Hvass-Labs")
 
