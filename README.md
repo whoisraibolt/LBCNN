@@ -14,7 +14,7 @@ Paulo Rosa          ( [Lattes](http://lattes.cnpq.br/1512717941866097 "Lattes") 
 
 This Jupyter Notebook shows step by step, the process of building a Local Binary Convolutional Neural Network for Emotional Expression Recognition in Python using the TensorFlow framework.
 
-In this example we use the dataset [JAFFE](http://www.kasrl.org/jaffe.html "JAFFE").
+In this example we use the [JAFFE](http://www.kasrl.org/jaffe.html "JAFFE") dataset.
 
 **Notice:** The LBCNN model proposed in this work was implemented in Python (version 2.7.12) using the TensorFlow framework (version 1.4.0) using a GPU based architecture, and might not work with other versions.
 
