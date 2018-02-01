@@ -1,4 +1,4 @@
-# Local Binary Convolutional Neural Network for Emotional Expression Recognition
+# Local Binary Convolutional Neural Network for Facial Emotional Expressions Recognition
 
 ## People
 
