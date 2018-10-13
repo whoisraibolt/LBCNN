@@ -1,12 +1,10 @@
-# Local Binary Convolutional Neural Network for Facial Emotional Expressions Recognition
+# Local Binary Convolutional Neural Network for Facial Expression Recognition of Basic Emotions
 
 ## People
 
 Alexandra Raibolt   ( [Lattes](http://lattes.cnpq.br/4144500977095845 "Lattes") | [E-mail](mailto:alexandra.raibolt@gmail.com "E-mail") )
 
 Alberto Angonese    ( [Lattes](http://lattes.cnpq.br/8039229243803003 "Lattes") | [E-mail](mailto:aangonese@faeterj-petropolis.edu.br "E-mail") )
-
-Gilson Giraldi      ( [Lattes](http://lattes.cnpq.br/9950879952262717 "Lattes") | [E-mail](mailto:gilson@lncc.br "E-mail") )
 
 Paulo Rosa          ( [Lattes](http://lattes.cnpq.br/1512717941866097 "Lattes") | [E-mail](mailto:rpaulo@ime.eb.br "E-mail") )
 
