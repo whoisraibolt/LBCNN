@@ -14,7 +14,11 @@ This Jupyter Notebook shows step by step, the process of building a Local Binary
 
 In this example we use the [JAFFE](http://www.kasrl.org/jaffe.html "JAFFE") dataset.
 
-**Notice:** The LBCNN model proposed in this work was implemented in Python (version 2.7.12) using the TensorFlow framework (version 1.4.0) using a GPU based architecture, and might not work with other versions.
+**Notice:** 
+
+- The LBCNN model proposed in this work was implemented in Python (version 2.7.12) using the TensorFlow framework (version 1.4.0) using a GPU based architecture, and might not work with other versions.
+
+- The directory where the datasets should stay is not available in GitHub, since it would violate the dataset rules.
 
 ## Dependencies
 
