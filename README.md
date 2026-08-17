@@ -1,5 +1,7 @@
 # Local Binary Convolutional Neural Network for Facial Expression Recognition of Basic Emotions
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21982989-1682D4)](https://doi.org/10.5281/zenodo.21982989)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/LBCNN.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/LBCNN.svg)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/whoisraibolt/LBCNN.svg)
