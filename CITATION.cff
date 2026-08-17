@@ -8,12 +8,12 @@ authors:
     given-names: Alexandra
     orcid: "https://orcid.org/0000-0002-8982-596X"
   - family-names: Angonese
-    given-names: Alberto
+    given-names: Alberto Torres
   - family-names: Rosa
-    given-names: Paulo
+    given-names: Paulo Fernando Ferreira
 repository-code: "https://github.com/whoisraibolt/LBCNN"
 license: MIT
-version: v1.0.0
+version: v1.0.1
 date-released: "2026-08-17"
 keywords:
   - deep-learning
@@ -23,3 +23,4 @@ keywords:
   - facial-expression-recognition
   - emotion-recognition
   - python
+
