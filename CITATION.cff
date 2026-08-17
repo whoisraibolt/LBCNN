@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Local Binary Convolutional Neural Network for Facial Expression Recognition of Basic Emotions"
+abstract: "Implementation of a Local Binary Convolutional Neural Network (LBCNN) for facial expression recognition of basic emotions, in Python using the TensorFlow framework."
+authors:
+  - family-names: Raibolt
+    given-names: Alexandra
+    orcid: "https://orcid.org/0000-0002-8982-596X"
+  - family-names: Angonese
+    given-names: Alberto
+  - family-names: Rosa
+    given-names: Paulo
+repository-code: "https://github.com/whoisraibolt/LBCNN"
+license: MIT
+version: v1.0.0
+date-released: "2026-08-17"
+keywords:
+  - deep-learning
+  - convolutional-neural-network
+  - lbcnn
+  - tensorflow
+  - facial-expression-recognition
+  - emotion-recognition
+  - python
